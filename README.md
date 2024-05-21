@@ -5,11 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fayinana" alt="fayinana" /></a> </p>
 
-- 🌱 I’m currently learning **java script and java script frameworks**
-
-- 💬 Ask me about **java script**
-
-- 📫 How to reach me **fekedeayinana@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
